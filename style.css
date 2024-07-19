@@ -1,0 +1,56 @@
+                                                /*Universal*/
+* {
+    background-color: #D6EFD8;
+}
+
+/*--For Body--*/
+    body {
+        margin: 3rem 6rem;
+    }
+
+                                                /*--Main Page--*/
+/*Element Selectors*/
+    h1 {
+        text-align: center;   
+    }
+
+    h2 {
+        text-align: center;
+    }
+
+    img {
+        display: block;
+        margin: auto;
+        box-shadow: 3px 3px 3px 1px;
+        height: 400px;
+        width: 400px;
+    } 
+
+/*Class Selectors*/
+    .About-Me {
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .Games {
+        text-align: center;
+        margin: 1rem 17rem;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;        
+    }
+/*Id Selectors*/
+    #Mazda {
+        text-align:center;
+        font-size: larger;
+    }
+
+    #favorite-foods {
+        text-align: center;
+        margin: 1rem 15rem;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    #contact-me {
+        text-align: center;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
